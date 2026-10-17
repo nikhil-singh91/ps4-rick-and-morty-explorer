@@ -62,4 +62,4 @@ npm run preview
 
 ## Live Deployment URL
 
-*(Deployment URL will be placed here once deployed to Vercel or Netlify)*
+*(ps4-rick-and-morty-explorer-gold.vercel.app)*
