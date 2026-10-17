@@ -60,12 +60,6 @@ Preview production build:
 npm run preview
 ```
 
-## Screenshots
-
-Add your application screenshots in this section before submitting:
-- Screenshot 1: Characters Directory (`/characters`)
-- Screenshot 2: Character Details (`/characters/:id`)
-
 ## Live Deployment URL
 
 *(Deployment URL will be placed here once deployed to Vercel or Netlify)*
